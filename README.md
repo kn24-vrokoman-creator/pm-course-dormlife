@@ -27,3 +27,9 @@
 ## Документація
 
 Детальний опис проблеми, цільової аудиторії, продукту, функціональності та команди наведено у файлі [project-brief.md](project-brief.md).
+
+## Документація
+
+- [Опис проєкту (Project Brief)](project-brief.md)
+- [Класифікація проєкту та аналіз оточення (Project Classification)](project-classification.md)
+
