@@ -32,4 +32,4 @@
 
 - [Опис проєкту (Project Brief)](project-brief.md)
 - [Класифікація проєкту та аналіз оточення (Project Classification)](project-classification.md)
-
+- [Життєвий цикл проєкту (Project Lifecycle)](project-lifecycle.md)
